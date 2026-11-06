@@ -1,0 +1,177 @@
+node_id,latitude,longitude,name,demand_kg,is_depot
+1,46.5692207,26.9108498,Bacău Județul Bacău,0.0,True
+2,46.25251309999999,26.7713515,Onești Județul Bacău,3.2,False
+3,46.4693464,26.459107,Moinești Județul Bacău,0.13,False
+4,46.4229871,26.434236,Comănești Județul Bacău,1.38,False
+5,46.7187616,26.7031265,Buhuși Județul Bacău,1.12,False
+6,46.3679843,26.4924053,Dărmănești Județul Bacău,3.68,False
+7,46.27770659999999,26.6181847,Târgu Ocna Județul Bacău,3.38,False
+8,46.2087759,26.44049,Slănic Moldova Județul Bacău,4.46,False
+9,46.4539357,26.2295636,Agăș Județul Bacău,0.43,False
+10,46.5301384,26.5985167,Ardeoani Județul Bacău,2.11,False
+11,46.4399466,26.400959,Asău Județul Bacău,0.15,False
+12,46.6380084,26.5550982,Balcani Județul Bacău,1.09,False
+13,46.7118791,26.8652089,Berești-Bistrița Județul Bacău,2.53,False
+14,46.4696179,26.677676,Berești-Tazlău Județul Bacău,0.13,False
+15,46.4066269,26.627824,Berzunți Județul Bacău,0.99,False
+16,46.3307322,26.683847,Bârsănești Județul Bacău,3.25,False
+17,46.6796167,26.6530188,Blăgești Județul Bacău,2.72,False
+18,46.2221108,26.7065951,Bogdănești Județul Bacău,1.1,False
+19,46.54637899999999,26.189049,Brusturoasa Județul Bacău,2.95,False
+20,46.19647930000001,26.7879873,Buciumi Județul Bacău,4.05,False
+21,46.5739388,27.0302839,Buhoci Județul Bacău,0.03,False
+22,46.1924754,26.742696,Cașin Județul Bacău,4.03,False
+23,46.1863848,26.9244248,Căiuți Județul Bacău,3.49,False
+24,46.4021003,26.9426591,Cleja Județul Bacău,1.7,False
+25,46.5920637,27.2838655,Colonești Județul Bacău,0.78,False
+26,46.2882414,27.1613315,Corbasca Județul Bacău,4.79,False
+27,46.1462918,26.9911637,Coțofănești Județul Bacău,1.68,False
+28,46.746549,27.0053511,Dămienești Județul Bacău,0.46,False
+29,46.2783931,27.2950442,Dealu Morii Județul Bacău,0.48,False
+30,46.3227827,26.5252663,Dofteana Județul Bacău,4.24,False
+31,46.4365214,26.8986154,Faraoani Județul Bacău,3.02,False
+32,46.5332188,27.1895977,Filipeni Județul Bacău,4.04,False
+33,46.7425189,26.8879447,Filipești Județul Bacău,3.65,False
+34,46.3613512,27.2135778,Găiceana Județul Bacău,2.68,False
+35,46.6186636,26.0624773,Ghimeș-Făget Județul Bacău,4.87,False
+36,46.4315835,26.9893505,Gioseni Județul Bacău,1.89,False
+37,46.6604217,26.806779,Gârleni Județul Bacău,2.76,False
+38,46.25796949999999,27.3741448,Glăvănești Județul Bacău,4.15,False
+39,46.2664154,26.8318788,Gura Văii Județul Bacău,3.09,False
+40,46.3595705,26.7408238,Helegiu Județul Bacău,4.31,False
+41,46.6262378,26.8528436,Hemeiuș Județul Bacău,2.89,False
+42,46.4019516,27.0549468,Horgești Județul Bacău,3.52,False
+43,46.2583299,27.2326352,Huruiești Județul Bacău,0.23,False
+44,46.6599845,26.8752939,Itești Județul Bacău,1.14,False
+45,46.585847,27.2196509,Izvoru Berheciului Județul Bacău,1.45,False
+46,46.5499206,26.9514343,Letea Veche Județul Bacău,0.4,False
+47,46.7386747,27.1992724,Lipova Județul Bacău,1.16,False
+48,46.4096579,26.7416427,Livezi Județul Bacău,0.51,False
+49,46.5319397,26.8434864,Luizi-Călugăra Județul Bacău,1.39,False
+50,46.5183632,26.526644,Măgirești Județul Bacău,3.18,False
+51,46.5601821,26.8700466,Măgura Județul Bacău,1.82,False
+52,46.1122317,26.6126266,Mănăstirea Cașin Județul Bacău,1.85,False
+53,46.5836218,26.8541963,Mărgineni Județul Bacău,1.05,False
+54,46.3301437,27.3872868,Motoșeni Județul Bacău,1.33,False
+55,46.6999468,27.0249346,Negri Județul Bacău,4.68,False
+56,46.4654646,26.8863978,Nicolae Bălcescu Județul Bacău,3.24,False
+57,46.6727544,27.1314961,Odobești Județul Bacău,3.05,False
+58,46.2052221,26.6258974,Oituz Județul Bacău,0.86,False
+59,46.4734215,27.255858,Oncești Județul Bacău,3.65,False
+60,46.282463,26.9870163,Orbeni Județul Bacău,0.82,False
+61,46.529218,26.143358,Palanca Județul Bacău,1.9,False
+62,46.3035948,26.9545838,Parava Județul Bacău,4.95,False
+63,46.4837545,27.1094842,Parincea Județul Bacău,3.2,False
+64,46.365306,27.1174825,Pâncești Județul Bacău,2.78,False
+65,46.2579347,26.6560483,Pârgărești Județul Bacău,3.42,False
+66,46.590341,26.6111816,Pârjol Județul Bacău,4.21,False
+67,46.6806445,27.217439,Plopana Județul Bacău,3.88,False
+68,46.2013534,27.388525,Podu Turcului Județul Bacău,1.15,False
+69,46.4545288,26.5600314,Poduri Județul Bacău,0.16,False
+70,46.6562536,26.9719488,Prăjești Județul Bacău,1.58,False
+71,46.7029067,26.741141,Racova Județul Bacău,1.34,False
+72,46.3345142,27.003238,Răcăciuni Județul Bacău,1.05,False
+73,46.4453128,27.3799069,Răchitoasa Județul Bacău,4.71,False
+74,46.7261606,27.0853709,Roșiori Județul Bacău,4.38,False
+75,46.2070485,27.1009162,Sascut Județul Bacău,1.57,False
+76,46.4592722,26.7471156,Sănduleni Județul Bacău,3.28,False
+77,46.5031154,26.8704878,Sărata Județul Bacău,1.98,False
+78,46.6406901,26.9309762,Săucești Județul Bacău,4.57,False
+79,46.55076409999999,26.6607348,Scorțeni Județul Bacău,2.29,False
+80,46.6456245,27.0952667,Secuieni Județul Bacău,1.32,False
+81,46.5486598,26.5269051,Solonț Județul Bacău,1.23,False
+82,46.4199647,27.3075204,Stănișești Județul Bacău,2.81,False
+83,46.5330982,26.7156622,Strugari Județul Bacău,1.31,False
+84,46.2067596,26.8541454,Ștefan cel Mare Județul Bacău,2.92,False
+85,46.49219739999999,27.0053162,Tamași Județul Bacău,4.49,False
+86,46.21993579999999,27.2014342,Tătărăști Județul Bacău,2.0,False
+87,46.273938,26.6845159,Târgu Trotuș Județul Bacău,1.1,False
+88,46.6267259,27.0318867,Traian Județul Bacău,4.99,False
+89,46.5243742,27.11273,Ungureni Județul Bacău,2.55,False
+90,46.13267339999999,27.0848956,Urechești Județul Bacău,0.45,False
+91,46.2436795,27.0532864,Valea Seacă Județul Bacău,0.24,False
+92,46.41723,27.2376989,Vultureni Județul Bacău,0.55,False
+93,46.5850805,26.4089813,Zemeș Județul Bacău,3.14,False
+94,46.9313838,26.3734062,Piatra Neamț Județul Neamț,3.96,False
+95,46.9333781,26.9265451,Roman Județul Neamț,2.11,False
+96,46.909583,26.0853918,Bicaz Județul Neamț,0.32,False
+97,46.8378637,26.5073184,Roznov Județul Neamț,1.91,False
+98,47.2097877,26.3757306,Târgu Neamț Județul Neamț,4.98,False
+99,47.1529173,26.2564058,Agapia Județul Neamț,2.65,False
+100,46.9105187,26.2670311,Alexandru cel Bun Județul Neamț,4.86,False
+101,46.7607278,26.7849365,Bahna Județul Neamț,4.3,False
+102,47.1224713,26.3057958,Bălțătești Județul Neamț,0.06,False
+103,47.026201,27.0551228,Bâra Județul Neamț,3.6,False
+104,46.9842653,26.6415278,Bârgăuani Județul Neamț,3.41,False
+105,46.832066,25.8814673,Bicaz-Chei Județul Neamț,2.68,False
+106,46.8817939,25.8741115,Bicazu Ardelean Județul Neamț,1.33,False
+107,47.03775479999999,26.4267519,Bodești Județul Neamț,3.2,False
+108,47.0525841,27.080037,Boghicea Județul Neamț,0.56,False
+109,47.17894330000001,25.7794843,Borca Județul Neamț,2.17,False
+110,46.7842959,26.4413322,Borlești Județul Neamț,2.27,False
+111,47.06092710000001,26.7524753,Botești Județul Neamț,4.77,False
+112,46.8485903,27.1773635,Bozieni Județul Neamț,4.38,False
+113,47.2777914,26.3760998,Brusturi Județul Neamț,1.32,False
+114,46.7112221,26.5681171,Cândești Județul Neamț,2.5,False
+115,47.01243969999999,25.9351058,Ceahlău Județul Neamț,0.89,False
+116,47.0005371,26.8262021,Cordun Județul Neamț,4.56,False
+117,46.7531177,26.6393399,Costișa Județul Neamț,4.35,False
+118,47.0856952,26.1900017,Crăcăoani Județul Neamț,1.49,False
+119,46.7372612,25.9148901,Dămuc Județul Neamț,3.19,False
+120,46.99637670000001,26.4148232,Dobreni Județul Neamț,3.04,False
+121,46.9091101,26.5636199,Dochia Județul Neamț,0.76,False
+122,47.0291136,26.9819249,Doljești Județul Neamț,3.81,False
+123,47.316067,26.4015687,Drăgănești Județul Neamț,2.7,False
+124,47.021078,26.5777617,Dragomirești Județul Neamț,3.89,False
+125,46.9672483,26.7924768,Dulcești Județul Neamț,2.65,False
+126,46.8875289,26.444217,Dumbrava Roșie Județul Neamț,0.0,False
+127,47.1981096,25.8999756,Farcașa Județul Neamț,1.62,False
+128,46.9240621,26.7152124,Făurei Județul Neamț,0.1,False
+129,46.93588949999999,27.0092511,Gâdinți Județul Neamț,4.65,False
+130,47.025723,26.2643165,Gârcina Județul Neamț,4.39,False
+131,47.0298183,26.8137313,Gherăești Județul Neamț,4.16,False
+132,47.1083164,26.3420004,Ghindăoani Județul Neamț,1.54,False
+133,46.9375925,26.4941827,Girov Județul Neamț,0.29,False
+134,47.0034236,25.8434756,Grințieș Județul Neamț,4.39,False
+135,47.13142329999999,26.3859228,Grumăzești Județul Neamț,4.73,False
+136,47.0783614,26.0494076,Hangu Județul Neamț,0.43,False
+137,46.8992387,26.9170704,Horia Județul Neamț,2.43,False
+138,46.8068946,26.9471433,Icușești Județul Neamț,0.35,False
+139,46.8693505,26.9834749,Ion Creangă Județul Neamț,3.8,False
+140,46.8808437,26.6381505,Mărgineni Județul Neamț,3.83,False
+141,46.82393769999999,26.7818551,Moldoveni Județul Neamț,0.64,False
+142,47.0343051,26.3563718,Negrești Județul Neamț,2.38,False
+143,46.7853491,27.1798427,Oniceni Județul Neamț,2.75,False
+144,46.9187735,27.1480723,Pâncești Județul Neamț,1.33,False
+145,46.9302612,26.1867016,Pângărați Județul Neamț,4.36,False
+146,47.1612518,26.5712206,Păstrăveni Județul Neamț,2.12,False
+147,47.1583043,26.4462858,Petricani Județul Neamț,1.06,False
+148,46.8346302,26.4373587,Piatra Șoimului Județul Neamț,2.7,False
+149,47.23961329999999,26.0678092,Pipirig Județul Neamț,3.65,False
+150,46.8009383,26.6247615,Podoleni Județul Neamț,1.01,False
+151,47.1150791,25.9251536,Poiana Teiului Județul Neamț,1.56,False
+152,46.885668,27.1140701,Poienari Județul Neamț,4.98,False
+153,47.2459347,26.4201334,Răucești Județul Neamț,3.25,False
+154,47.0679059,26.5575349,Războieni Județul Neamț,2.19,False
+155,46.7577448,26.548067,Rediu Județul Neamț,2.59,False
+156,46.9758685,26.3818764,Români Județul Neamț,0.61,False
+157,46.9850039,26.7010772,Ruginoasa Județul Neamț,1.12,False
+158,47.0128649,26.880885,Săbăoani Județul Neamț,1.69,False
+159,46.9627259,27.057826,Sagna Județul Neamț,2.94,False
+160,46.87172950000001,26.48688,Săvinești Județul Neamț,1.15,False
+161,46.8571347,26.8154605,Secuieni Județul Neamț,1.1,False
+162,47.0018794,27.1043092,Stănița Județul Neamț,0.35,False
+163,46.9876769,26.5442846,Ștefan cel Mare Județul Neamț,3.16,False
+164,46.9914753,26.9498705,Tămășeni Județul Neamț,1.14,False
+165,46.7549825,26.0971849,Tarcău Județul Neamț,4.53,False
+166,46.8948648,26.0233089,Tașca Județul Neamț,4.3,False
+167,46.72323720000001,26.4677995,Tazlău Județul Neamț,0.35,False
+168,47.1248046,26.5809619,Țibucani Județul Neamț,1.19,False
+169,47.2254212,26.5133494,Timișești Județul Neamț,3.34,False
+170,46.9137127,26.8391958,Trifești Județul Neamț,1.07,False
+171,47.0811728,26.6717987,Tupilați Județul Neamț,0.66,False
+172,47.154563,26.5140132,Urecheni Județul Neamț,4.68,False
+173,46.78932409999999,27.0827583,Valea Ursului Județul Neamț,2.86,False
+174,47.034309,26.6919177,Văleni Județul Neamț,2.36,False
+175,47.2115369,26.2306065,Vânători-Neamț Județul Neamț,3.92,False
+176,46.8309224,26.5880194,Zănești Județul Neamț,4.04,False

@@ -1,0 +1,60 @@
+category,name,osm_id
+aviation,"Aerodromul Girov",node/8971636325
+aviation,"Aerodromul Viișoara",node/12582201735
+aviation,"Aerodrom Mărgineni",node/12585409199
+aviation,"Timișești Airstrip",node/13031013189
+military,"Centrul Regional de Instruire Onești",node/13299349936
+aviation,"Aeroportul Internațional Bacău",way/84575502
+prison,"Penitenciarul-Spital Târgu Ocna",way/217793487
+military,"",way/221196813
+military,"Centrul Militar Județean Neamț",way/286250648
+military,"Unitatea Militara 1408",way/288290435
+military,"Poligon Dealul Vulpii",way/291869057
+military,"Batalionul 634 Infanterie „Mareşal Józef Pilsudski”",way/334682572
+aviation,"Aerodrom Dumbrava",way/371493657
+military,"",way/993657785
+aviation,"Aerodrom Zanesti",way/1065784341
+military,"Batalionul 634 Infanterie „Mareşal Józef Pilsudski”",way/1077365812
+aviation,"",way/1340373172
+military,"",way/1359817277
+military,"",way/1359817282
+military,"UM 01602",way/1366706302
+prison,"Penitenciarul Bacău",way/1366706303
+military,"UM 01983",way/1366706304
+military,"UM 01769",way/1366706305
+aviation,"",way/1391058515
+aviation,"",way/1447899382
+military,"",way/1451933272
+military,"UM 02015",way/1470414210
+military,"",way/1470414215
+military,"",way/1473588818
+military,"",way/1484730068
+military,"Unitate Militară",way/1504431573
+military,"Unitate Militară",way/1504432217
+aviation,"Aeroportul Internațional Bacău",way/84575502
+prison,"Penitenciarul-Spital Târgu Ocna",way/217793487
+military,"",way/221196813
+military,"Centrul Militar Județean Neamț",way/286250648
+military,"Unitatea Militara 1408",way/288290435
+military,"Poligon Dealul Vulpii",way/291869057
+military,"Batalionul 634 Infanterie „Mareşal Józef Pilsudski”",way/334682572
+aviation,"Aerodrom Dumbrava",way/371493657
+military,"",way/993657785
+aviation,"Aerodrom Zanesti",way/1065784341
+military,"Batalionul 634 Infanterie „Mareşal Józef Pilsudski”",way/1077365812
+aviation,"",way/1340373172
+military,"",way/1359817277
+military,"",way/1359817282
+military,"UM 01602",way/1366706302
+prison,"Penitenciarul Bacău",way/1366706303
+military,"UM 01983",way/1366706304
+military,"UM 01769",way/1366706305
+aviation,"",way/1391058515
+aviation,"",way/1447899382
+military,"",way/1451933272
+military,"UM 02015",way/1470414210
+military,"",way/1470414215
+military,"",way/1473588818
+military,"",way/1484730068
+military,"Unitate Militară",way/1504431573
+military,"Unitate Militară",way/1504432217
